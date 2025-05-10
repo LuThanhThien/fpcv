@@ -46,5 +46,5 @@ def test_segmentation():
 if __name__=="__main__":
     # test_binary_image()
     # test_raster_scanning()
-    test_segmentation()
+    # test_segmentation()
     pass
